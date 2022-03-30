@@ -1,0 +1,22 @@
+{
+  "name": "fileszzzzzzz",
+  "version": "1.0.0",
+  "description": "RIA 1 - Labo Fileszzzzzzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melohan/Fileszzzzzzz.git"
+  },
+  "author": "melohan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melohan/Fileszzzzzzz/issues"
+  },
+  "homepage": "https://github.com/melohan/Fileszzzzzzz#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
